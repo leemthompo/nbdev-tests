@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tests"
+  site-url: "https://leemthompo.github.io/nbdev-tests"
+  description: "experiments with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/leemthompo/nbdev-tests"
